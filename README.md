@@ -30,7 +30,14 @@ Circuit tested for all 8 input combinations:
 | 1 | 0 | 1   | 0   | 1    |
 | 1 | 1 | 0   | 0   | 1    |
 | 1 | 1 | 1   | 1    |
+## Circuit Diagram
 
+![Full Adder Logisim Circuit](Screenshot.png)
+
+## Download & Run
+1. Download `Full_Adder_Pavithra.circ` file
+2. Open Logisim → File → Open → Select the .circ file
+3. Test with inputs A, B, Cin to verify Sum and Cout
 ## 👩‍💻 Author
 PAVITHRA
 
