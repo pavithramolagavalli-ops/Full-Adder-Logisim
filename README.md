@@ -22,14 +22,14 @@ To design and implement a 1-bit Full Adder circuit using Logisim.
 Circuit tested for all 8 input combinations:
 | A | B | Cin | Sum | Cout |
 |---|---|-----|-----|------|
-| 0 | 0 | 0   | 0    |
+| 0 | 0 | 0   | 0    |0
 | 0 | 0 | 1   | 1   | 0    |
 | 0 | 1 | 0   | 1   | 0    |
 | 0 | 1 | 1   | 0   | 1    |
 | 1 | 0 | 0   | 1   | 0    |
 | 1 | 0 | 1   | 0   | 1    |
 | 1 | 1 | 0   | 0   | 1    |
-| 1 | 1 | 1   | 1    |
+| 1 | 1 | 1   | 1    |1
 ## Circuit Diagram
 
 ![Full Adder Logisim Circuit](Screenshot.png)
